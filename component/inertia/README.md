@@ -4,7 +4,7 @@
 
 原生JavaScript编写，适用于触屏设备。
 
-demo地址：[demo](https://yued-fe.github.io/inertia/demo/simple.html)
+demo地址：[demo/inertia/simple.html](https://daixwu.github.io/code-snippet/demo/inertia/simple.html)
 
 ## 使用示意
 
